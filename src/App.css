@@ -1,31 +1,67 @@
-.App {
+/* .App {
   text-align: center;
+} */
+* {
+  background-color: #FFF;
+  color: #000;
+  font-family:Georgia, 'Times New Roman', Times, serif
 }
 
-.App-logo {
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 26px;
+  margin-top: 10vh;
+}
+
+.subtext {
+  font-size: 16px;
+}
+
+.promo-image {
+  height: 100px;
+  width: 100px;
+}
+
+.embrace-image {
+  height: 100px;
+  width: 100px;
+}
+
+.thanks-image {
+  height: 100px;
+  width: 100px;
+}
+
+.theater-logo {
+  height: 100px;
+  width: 100px;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
-
+} */
+/*
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
-.App-header {
-  background-color: #282c34;
+/* .App-header {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 24pxs;
 }
 
-.App-link {
-  color: #61dafb;
+.App-link { */
+  /* color: #61dafb;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +71,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
