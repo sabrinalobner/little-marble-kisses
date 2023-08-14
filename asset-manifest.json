@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/little-marble-kisses/static/css/main.668a552e.css",
-    "main.js": "/little-marble-kisses/static/js/main.b3f2ffdd.js",
+    "main.css": "/little-marble-kisses/static/css/main.49042dc3.css",
+    "main.js": "/little-marble-kisses/static/js/main.67eade82.js",
     "static/js/787.dda9ef04.chunk.js": "/little-marble-kisses/static/js/787.dda9ef04.chunk.js",
     "static/media/little-marble-kisses-embrace.jpg": "/little-marble-kisses/static/media/little-marble-kisses-embrace.544a722d808e957f7b4f.jpg",
     "static/media/little-marble-kisses-thanks.jpg": "/little-marble-kisses/static/media/little-marble-kisses-thanks.b1103cf7575098afb8ec.jpg",
@@ -17,12 +17,12 @@
     "static/media/mental-insight-foundation.jpg": "/little-marble-kisses/static/media/mental-insight-foundation.92fd18e4172a90079cf9.jpg",
     "static/media/shubert-foundation.jpg": "/little-marble-kisses/static/media/shubert-foundation.2d6d3d5eab0270f84c87.jpg",
     "index.html": "/little-marble-kisses/index.html",
-    "main.668a552e.css.map": "/little-marble-kisses/static/css/main.668a552e.css.map",
-    "main.b3f2ffdd.js.map": "/little-marble-kisses/static/js/main.b3f2ffdd.js.map",
+    "main.49042dc3.css.map": "/little-marble-kisses/static/css/main.49042dc3.css.map",
+    "main.67eade82.js.map": "/little-marble-kisses/static/js/main.67eade82.js.map",
     "787.dda9ef04.chunk.js.map": "/little-marble-kisses/static/js/787.dda9ef04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.668a552e.css",
-    "static/js/main.b3f2ffdd.js"
+    "static/css/main.49042dc3.css",
+    "static/js/main.67eade82.js"
   ]
 }
