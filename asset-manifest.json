@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/little-marble-kisses/static/css/main.073c9b0a.css",
-    "main.js": "/little-marble-kisses/static/js/main.21bffef7.js",
+    "main.css": "/little-marble-kisses/static/css/main.668a552e.css",
+    "main.js": "/little-marble-kisses/static/js/main.b3f2ffdd.js",
     "static/js/787.dda9ef04.chunk.js": "/little-marble-kisses/static/js/787.dda9ef04.chunk.js",
-    "static/media/logo.svg": "/little-marble-kisses/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/little-marble-kisses-embrace.jpg": "/little-marble-kisses/static/media/little-marble-kisses-embrace.544a722d808e957f7b4f.jpg",
+    "static/media/little-marble-kisses-thanks.jpg": "/little-marble-kisses/static/media/little-marble-kisses-thanks.b1103cf7575098afb8ec.jpg",
+    "static/media/little-marble-kisses-promo.jpg": "/little-marble-kisses/static/media/little-marble-kisses-promo.830fe0065143960ab649.jpg",
+    "static/media/the-tank-logo.png": "/little-marble-kisses/static/media/the-tank-logo.65d902206a1f46031699.png",
+    "static/media/broadway-green-alliance.jpg": "/little-marble-kisses/static/media/broadway-green-alliance.086e064e88edfa8a1c16.jpg",
+    "static/media/nyc-cultural-affairs.jpg": "/little-marble-kisses/static/media/nyc-cultural-affairs.0e0d998218a9ce6ca10a.jpg",
+    "static/media/howard-foundation.jpg": "/little-marble-kisses/static/media/howard-foundation.fcf3a3c8292e3a0092c9.jpg",
+    "static/media/haagen-dazs.jpg": "/little-marble-kisses/static/media/haagen-dazs.c10599fca57e12224026.jpg",
+    "static/media/nys-council-on-the-arts.jpg": "/little-marble-kisses/static/media/nys-council-on-the-arts.e2be05b426beabad6e1f.jpg",
+    "static/media/ny-community-trust.jpg": "/little-marble-kisses/static/media/ny-community-trust.b5a0158fcf7d55e8e0c4.jpg",
+    "static/media/art-new-york.jpg": "/little-marble-kisses/static/media/art-new-york.e58f95fb5ea4b1462f8a.jpg",
+    "static/media/mental-insight-foundation.jpg": "/little-marble-kisses/static/media/mental-insight-foundation.92fd18e4172a90079cf9.jpg",
+    "static/media/shubert-foundation.jpg": "/little-marble-kisses/static/media/shubert-foundation.2d6d3d5eab0270f84c87.jpg",
     "index.html": "/little-marble-kisses/index.html",
-    "main.073c9b0a.css.map": "/little-marble-kisses/static/css/main.073c9b0a.css.map",
-    "main.21bffef7.js.map": "/little-marble-kisses/static/js/main.21bffef7.js.map",
+    "main.668a552e.css.map": "/little-marble-kisses/static/css/main.668a552e.css.map",
+    "main.b3f2ffdd.js.map": "/little-marble-kisses/static/js/main.b3f2ffdd.js.map",
     "787.dda9ef04.chunk.js.map": "/little-marble-kisses/static/js/787.dda9ef04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.21bffef7.js"
+    "static/css/main.668a552e.css",
+    "static/js/main.b3f2ffdd.js"
   ]
 }
